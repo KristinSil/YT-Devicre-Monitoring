@@ -1,3 +1,5 @@
 print("Some string")
 print("Other string")
-ptint("Hello')
+ptint("Hello")
+print("Gud Bye")
+
